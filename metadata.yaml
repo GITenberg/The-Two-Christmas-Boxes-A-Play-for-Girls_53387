@@ -1,5 +1,8 @@
 _repo: The-Two-Christmas-Boxes-A-Play-for-Girls_53387
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53387-h/images/cover.jpg
 creator:
   author:
     agent_name: Yale, Elsie Duncan
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '45344'
     url: http://www.gutenberg.org/2009/agents/45344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53387#The-Two-Christmas-Boxes-A-Play-for-Girls
 gutenberg_issued: '2016-10-28'
 gutenberg_type: Text
 identifiers:
