@@ -1,0 +1,24 @@
+_repo: The-Two-Christmas-Boxes-A-Play-for-Girls_53387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yale, Elsie Duncan
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '45344'
+    url: http://www.gutenberg.org/2009/agents/45344
+description: ''
+gutenberg_issued: '2016-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Christmas plays'
+- GITenberg
+title: 'The Two Christmas Boxes: A Play for Girls'
+url: http://www.gutenberg.org/ebooks/53387
